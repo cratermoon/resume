@@ -20,7 +20,8 @@ Steven E. Newton
 ## Work History
 #### Lead Software Engineer, Janrain, Inc, Portland, OR, 07/12 to 04/15
 Environments: Java 7, Tomcat,  Spring, Scala, Spray, Ruby, nginx git, sbt, jenkins, puppet, AWS, redis, PostgresSQL
-Social login platform built on AWS
+> Social login platform built on a variety of technoligies and deployed wholly on AWS
+
 * Migrated Java Spring application persistence layer from Amazon SimpleDB to redis
 * Raised  uptime of key component to five 9s
 * Team lead for small-medium teams
@@ -29,12 +30,14 @@ Social login platform built on AWS
 
 #### Lead Java Application Engineer, Nike, 03/08 to 05/09
 Environments: PTC Windchill, Ant, ClearCase, Spring MVC
+> C2CIM project for footwear design and product lifecycle management
 * Mentored contract programmers
 * Acted as build engineer for complex multi-step build.
 
 #### Java Consultant, CSG Professional, 04/04 to 05/06
 Environments: Java/J2EE, WebSphere, EJB, IBM DB2, Ant, svn
-* Developer on the eXPRS project, handling millions of dollars in state funding for disabled and indigent care recipients
+> eXPRS project, handling millions of dollars in state funding for disabled and indigent care recipients
+
 * Developed and maintained automated build system
 * Mentored and taught effective unit testing tools  that improved productivity
 * Key designer and developer of security component
@@ -70,9 +73,9 @@ Environments: Java, Windows,  BEA EJB server, Sybase, NLP WordNet, JNI, JMS Micr
 
 #### Media Software Implementer, Houston Chronicle Interactive, 03/97 to 08/98
 Environments: Perl, Apache, embedded Perl, Sybase, ETAK
-Deployed and maintained a directory of businesses with location mapping
-Maintained system to push print classified ads to web site
-Developed site end user registration and authentication system
+* Deployed and maintained a directory of businesses with location mapping
+* Maintained system to push print classified ads to web site
+* Developed site end user registration and authentication system
 
 #### Network Support Specialist II, University of Texas at Houston, 12/94 to 03/97
 Environments: C, TCP/IP
@@ -84,3 +87,5 @@ Environments: C, TCP/IP
 University of Texas at Austin
 Bachelor of Journalism
 1982-1987
+
+Coursework was primarily documentary photojournalism; electives included 20 hours of computers science courses covering algorithms, FORTRAN, Pascal, assembly language, and Prolog
