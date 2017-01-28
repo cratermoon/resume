@@ -1,4 +1,4 @@
-Steven E. Newton
+     Resume for Steven E. Newton
 # Executive Summary
 * Polishes old code
 * Understands business needs
