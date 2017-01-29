@@ -12,10 +12,16 @@
 ## Skill Summary
 
 **Skills** Working with legacy/heritage code, Bug finding and fixing, Quick problem solving
+
 **Languages** Java, JavaScript/ES6, Scala, Ruby, Perl
-**Frameworks** Struts, Spring,
-**OS and environments** Linux, OS X, Windows, AWS, VMWare, OpenVM
-**Coding environments** Eclipse, Atom, SublimeText,  Vagrant
+
+**Frameworks and Persistence** Struts, Spring, Play; redis, SimpleDB, PostgresSQL, MongoDB
+
+**OS and environments** Linux, OS X, Windows, AWS, VMWare, OpenVM, Vagran
+
+**Coding environments** Eclipse, Atom, SublimeText
+
+**Tools** git, maven, ant, sbt, jenkins, travisCI
 
 ## Work History
 #### Lead Software Engineer, Janrain, Inc, Portland, OR, 07/12 to 04/15
@@ -26,7 +32,7 @@ Environments: Java 7, Tomcat,  Spring, Scala, Spray, Ruby, nginx git, sbt, jenki
 * Raised  uptime of key component to five 9s
 * Team lead for small-medium teams
 * Release planning in collaboration with product manager
-* Migrated backend services to Scala microservice architecture
+* Assisted in migration of backend services to Scala microservice architecture
 
 #### Lead Java Application Engineer, Nike, 03/08 to 05/09
 Environments: PTC Windchill, Ant, ClearCase, Spring MVC
@@ -45,7 +51,7 @@ Environments: Java/J2EE, WebSphere, EJB, IBM DB2, Ant, svn
 * Resolved J2EE transaction-related problems
 
 #### Senior Programmer/Analyst, Standard Insurance Company, 03/01 to 08/03
-Environments: Java, Tivoli, Ant
+Environments: Java, IBM/Tivoli Security Access Manager, Ant
 * Initiated mentoring program for junior programmers
 * Developed and document bug tracking process
 * Enhanced and deployed web framework built on XML with XSLT
