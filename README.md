@@ -13,17 +13,21 @@
 
 **Skills** Working with legacy/heritage code, Bug finding and fixing, Quick problem solving
 
-**Languages** Java, JavaScript/ES6, Scala, Ruby, Perl
+**Languages** Go, Java, JavaScript/ES6, Scala, Ruby, Perl
 
-**Frameworks and Persistence** Struts, Spring, Play; redis, SimpleDB, PostgresSQL, MongoDB
+**Frameworks and Persistence** gorilla-mux, Struts, Spring, Play; redis, SimpleDB, PostgresSQL, MongoDB
 
-**OS and environments** Linux, OS X, Windows, AWS, VMWare, OpenVM, Vagran
+**OS and environments** Linux, OS X, Windows, AWS, VMWare, OpenVM, Vagrant
 
-**Coding environments** Eclipse, Atom, SublimeText
+**Coding environments** VS Code, Eclipse, Atom, SublimeText
 
-**Tools** git, maven, ant, sbt, jenkins, travisCI
+**Tools** git, maven, ant, sbt, jenkins, travisCI, Jira, cucumber
 
 ## Work History
+#### Software Engineer, Treetop Commons, LLc, Portland, OR, 02/17, current
+Environments: Go language, cucumber, Ruby, nginx, git, make, jenkins, AWS, redis, PostgresSQL, SAML2
+> NobleHour and Collaboratory
+
 #### Lead Software Engineer, Janrain, Inc, Portland, OR, 07/12 to 04/15
 Environments: Java 7, Tomcat,  Spring, Scala, Spray, Ruby, nginx git, sbt, jenkins, puppet, AWS, redis, PostgresSQL
 > Social login platform built on a variety of technoligies and deployed wholly on AWS
