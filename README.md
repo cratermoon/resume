@@ -24,9 +24,20 @@
 **Tools** git, maven, ant, sbt, jenkins, travisCI, Jira, cucumber
 
 ## Work History
-#### Software Engineer, Treetop Commons, LLc, Portland, OR, 02/17, current
-Environments: Go language, cucumber, Ruby, nginx, git, make, jenkins, AWS, redis, PostgresSQL, SAML2
+#### Software Engineer, Treetop Commons, LLc, Portland, OR, 02/17 to 10/17
+Environments: Go language, SAML2, cucumber & gherkin, vagrant, docker, gorilliamux, nginx, git, AWS, redis, PostgresSQL, Logstash, Elasticsearch and Kibana, Jira, CircleCI
 > NobleHour and Collaboratory
+
+Major contributions include correcting, improving, and stabilizing SAML2 service provider implementation, s3 asset management improvements, refining and expanding cucumber integration tests, and implementing Go-based microservices.
+
+* Improved the spec-compliance and flexibility of a custom in-house SAML2 service provider implemenation
+* Implemented key vagrant vm configurations for developing and testing SAML SSO configurations
+* Provided key feedback to product and customer success teams for responding to complex and demanding customer needs
+* Helped identify and reduce technical debt while maintaining rapid release schedule meeting customer needs
+* Maintained test Shibboleth SAML2 IdP
+* Expanded and improved cucumber test framwork
+* Promulgated standards for developer tests and pre-commit discipline.
+* Contributed to improving git flow for development process
 
 #### Lead Software Engineer, Janrain, Inc, Portland, OR, 07/12 to 04/15
 Environments: Java 7, Tomcat,  Spring, Scala, Spray, Ruby, nginx git, sbt, jenkins, puppet, AWS, redis, PostgresSQL
