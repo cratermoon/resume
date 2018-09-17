@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# requires pandoc and a TeX installation with the Baskervald font
+pandoc -V geometry:"left=1.5in, right=1in" -V fontfamily="baskervald" README.md -f gfm -o resume.pdf
