@@ -24,6 +24,13 @@
 **Tools** git, maven, ant, sbt, jenkins, travisCI, Jira, cucumber
 
 ## Work History
+
+#### Senior Software Engineer, IGNW — Xandr, 10/18
+Environments: SAML2, kubernetes
+> AppNexus Console
+
+Implementing single sign-on for a web application with SAML and OpenID Connect
+
 #### Software Engineer, Treetop Commons, LLc, Portland, OR, 02/17 to 10/17
 Environments: Go language, SAML2, cucumber & gherkin, vagrant, docker, gorilliamux, nginx, git, AWS, redis, PostgresSQL, Logstash, Elasticsearch and Kibana, Jira, CircleCI
 > NobleHour and Collaboratory
