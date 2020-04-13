@@ -25,7 +25,13 @@
 
 ## Work History
 
-#### Senior Software Engineer, IGNW — Xandr, 10/18
+#### Senior Software Engineer, Team Lead — Xandr, 4/19
+Environments: auth0, SAML2, OIDC, kubernetes, dropwizard
+> UXUA: Universal Xandr User Authentication
+
+Extending single sign-on across all customer-facing applications with SAML and OpenID Connect. Federated identity management, identity mapping, and account mapping
+
+#### Senior Software Engineer, IGNW — Xandr, 10/18 - 3/19
 Environments: SAML2, kubernetes
 > AppNexus Console
 
