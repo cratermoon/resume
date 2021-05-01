@@ -15,24 +15,24 @@
 
 **Languages** Go, Java, JavaScript/ES6, Scala, Ruby, Perl
 
-**Frameworks and Persistence** gorilla-mux, Struts, Spring, Play; redis, SimpleDB, PostgresSQL, MongoDB
+**Frameworks and Persistence** DropWizard, Play; redis, SimpleDB, PostgresSQL, MySQL
 
 **OS and environments** Linux, OS X, Windows, AWS, VMWare, OpenVM, Vagrant
 
-**Coding environments** VS Code, Eclipse, Atom, SublimeText
+**Coding environments** VS Code, Eclipse, SublimeText
 
-**Tools** git, maven, ant, sbt, jenkins, travisCI, Jira, cucumber
+**Tools** git, maven, jenkins, Jira, cucumber, docker
 
 ## Work History
 
-#### Senior Software Engineer, Team Lead — Xandr, 4/19
+#### Senior Software Engineer, Team Lead — Xandr, 4/19 – 4/21
 Environments: auth0, SAML2, OIDC, kubernetes, dropwizard
 > UXUA: Universal Xandr User Authentication
 
 Extending single sign-on across all customer-facing applications with SAML and OpenID Connect. Federated identity management, identity mapping, and account mapping
 
 #### Senior Software Engineer, IGNW — Xandr, 10/18 - 3/19
-Environments: SAML2, kubernetes
+Environments: oauth & oidc, SAML2, kubernetes, auth0 
 > AppNexus Console
 
 Implementing single sign-on for a web application with SAML and OpenID Connect
