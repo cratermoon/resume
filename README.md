@@ -13,26 +13,26 @@
 
 **Skills** Working with legacy/heritage code, Bug finding and fixing, Quick problem solving
 
-**Languages** Go, Java, JavaScript/ES6, Scala, Ruby, Perl
+**Languages** Go, Java, JavaScript/ES6, Ruby, Perl
 
-**Frameworks and Persistence** DropWizard, Play; redis, SimpleDB, PostgresSQL, MySQL
+**Frameworks and Persistence** gorilla-mux, dropwizard, redis, PostgresSQL, MongoDB, MySQL
 
-**OS and environments** Linux, OS X, Windows, AWS, VMWare, OpenVM, Vagrant
+**OS and environments** Linux, OS X, Windows, AWS, docker,, kubernetes
 
-**Coding environments** VS Code, Eclipse, SublimeText
+**Coding environments** VS Code, IntelliJ, 
 
-**Tools** git, maven, jenkins, Jira, cucumber, docker
+**Tools** git, maven, CircleCI, Jira, cucumber
 
 ## Work History
 
-#### Senior Software Engineer, Team Lead — Xandr, 4/19 – 4/21
-Environments: auth0, SAML2, OIDC, kubernetes, dropwizard
+#### Senior Software Engineer, Team Lead — Xandr, 4/19 - 5/21
+Environments: auth0, SAML2, OIDC, docker, kubernetes, dropwizard
 > UXUA: Universal Xandr User Authentication
 
 Extending single sign-on across all customer-facing applications with SAML and OpenID Connect. Federated identity management, identity mapping, and account mapping
 
 #### Senior Software Engineer, IGNW — Xandr, 10/18 - 3/19
-Environments: oauth & oidc, SAML2, kubernetes, auth0 
+Environments: SAML2, kubernetes
 > AppNexus Console
 
 Implementing single sign-on for a web application with SAML and OpenID Connect
